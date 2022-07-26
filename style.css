@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://static01.nyt.com/images/2022/07/12/science/12WEBB-LIVE-carina-header/12WEBB-LIVE-carina-header-videoSixteenByNine3000.jpg") no-repeat center;
+    background: url("https://www.cnet.com/a/img/resize/9c3a1763db8304921b632be365bf75b80229dd1c/2020/10/05/648daa09-5220-449c-ab36-440306854c40/carinanebulanoirlab2025a.jpg?auto=webp&fit=crop&height=675&width=1200") no-repeat center;
     height: 100vh;
     color: #000000;
     min-height: 500px;
