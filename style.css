@@ -95,7 +95,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: #000;
     font-size: 35px;
     font-weight: 600;
 }
@@ -104,7 +104,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: #000;
 }
 .navbar .menu li{
     list-style: none;
@@ -112,7 +112,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: #000;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -122,12 +122,12 @@ section .title::after{
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: #000;
 }
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: #000;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -141,7 +141,7 @@ section .title::after{
     bottom: 10px;
     text-align: center;
     line-height: 45px;
-    color: #fff;
+    color: #000;
     z-index: 9999;
     font-size: 30px;
     border-radius: 6px;
@@ -180,16 +180,21 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
+    color: #000;
     font-size: 27px;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    color: #000;
+    font-size: 27px;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    color: #000;
+    font-size: 27px;
 }
 .home .home-content .text-3 span{
     color: crimson;
