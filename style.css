@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://scx2.b-cdn.net/gfx/news/2022/an-image-of-the-carina.jpg") no-repeat center;
+    background: url("https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/06/09/269212-telescope.jpg") no-repeat center;
     height: 100vh;
     color: #000000;
     min-height: 500px;
