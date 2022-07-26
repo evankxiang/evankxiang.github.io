@@ -166,7 +166,7 @@ section .title::after{
     display: flex;
     background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #000;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
