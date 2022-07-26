@@ -166,7 +166,7 @@ section .title::after{
     display: flex;
     background: url("https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-cosmic-cliffs-glittering-landscape-of-star-birth") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #000000;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
