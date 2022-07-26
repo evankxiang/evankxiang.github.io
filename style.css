@@ -95,7 +95,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #000;
+    color: #fff;
     font-size: 35px;
     font-weight: 600;
 }
@@ -104,7 +104,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #000;
+    color: #fff;
 }
 .navbar .menu li{
     list-style: none;
@@ -112,7 +112,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #000;
+    color: #fff;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -122,12 +122,12 @@ section .title::after{
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
-    color: #000;
+    color: #fff;
 }
 
 /* menu btn styling */
 .menu-btn{
-    color: #000;
+    color: #fff;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -141,7 +141,7 @@ section .title::after{
     bottom: 10px;
     text-align: center;
     line-height: 45px;
-    color: #000;
+    color: #fff;
     z-index: 9999;
     font-size: 30px;
     border-radius: 6px;
@@ -166,7 +166,7 @@ section .title::after{
     display: flex;
     background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
     height: 100vh;
-    color: #000000;
+    color: #fff;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -180,20 +180,20 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
-    color: #000;
+    color: #fff;
     font-size: 27px;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
-    color: #000;
+    color: #fff;
     font-size: 27px;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
-    color: #000;
+    color: #fff;
     font-size: 27px;
 }
 .home .home-content .text-3 span{
@@ -203,7 +203,7 @@ section .title::after{
 .home .home-content a{
     display: inline-block;
     background: crimson;
-    color: #000;
+    color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
