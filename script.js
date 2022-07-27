@@ -30,14 +30,14 @@ $(document).ready(function(){
 
  
     var typed = new Typed(".typing", {
-        strings: ["Student at SSA", "Coding Enthusiast", "Science Olympiad Captain", "Physics Enthusiast", "Bozo"],
+        strings: ["Student at SSA", "Coding Noob", "Science Olympiad Captain", "Physics Enthusiast", "Biology :D"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student at SSA", "Coding Enthusiast", "Science Olympiad Captain", "Physics Enthusiast", "Bozo"],
+        strings: ["Student at SSA", "Coding Noob", "Science Olympiad Captain", "Physics Enthusiast", "Biology :D"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
