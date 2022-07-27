@@ -41,7 +41,6 @@
                 <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Evan Xiang</div>
                 <div class="text-3">And I'm a <span class="typing"></span></div>
-                <a href="#">Hire me</a>
             </div>
         </div>
     </section>
@@ -269,20 +268,20 @@
                 </div>
                 <div class="column right">
                     <div class="text">Message me</div>
-                    <form action="#">
+                    <form action="https://formsubmit.co/evankxiang@gmail.com" method="POST">
                         <div class="fields">
                             <div class="field name">
-                                <input type="text" placeholder="Name" required>
+                                <input type="text" name="name" required>
                             </div>
                             <div class="field email">
-                                <input type="email" placeholder="Email" required>
+                                <input type="email" name="email" required>
                             </div>
                         </div>
                         <div class="field">
                             <input type="text" placeholder="Subject" required>
                         </div>
                         <div class="field textarea">
-                            <textarea cols="30" rows="10" placeholder="Message.." required></textarea>
+                            <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required>
                         </div>
                         <div class="button-area">
                             <button type="submit">Send message</button>
