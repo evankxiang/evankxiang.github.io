@@ -11,40 +11,29 @@ $(document).ready(function(){
             $('.scroll-up-btn').removeClass("show");
         }
     });
-
-
     $('.scroll-up-btn').click(function(){
         $('html').animate({scrollTop: 0});
         $('html').css("scrollBehavior", "auto");
     });
-
     $('.navbar .menu li a').click(function(){
         $('html').css("scrollBehavior", "smooth");
     });
-    
-
-
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
     });
-
- 
     var typed = new Typed(".typing", {
-        strings: ["Student at SSA", "Coding Noob", "Science Olympiad Captain", "Physics Enthusiast", "Biology :D"],
+        strings: ["Bioinformatics Enthusiast", "Coding Hobbyist", "Bioengineering Nerd"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
-
     var typed = new Typed(".typing-2", {
-        strings: ["Student at SSA", "Coding Noob", "Science Olympiad Captain", "Physics Enthusiast", "Biology :D"],
+        strings: ["Student at SSA", "Science Enthusiast", "Poetry Hater"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
-
-
     $('.carousel').owlCarousel({
         margin: 20,
         loop: true,
@@ -66,5 +55,4 @@ $(document).ready(function(){
             }
         }
     });
- 
 });
