@@ -164,10 +164,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://d.newsweek.com/en/full/451515/05-06-brain-connectome-01.jpg?w=1280&h=853&f=e116b9365f5d09f5494ee77d2c094a2c") no-repeat center;
+    background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
     height: 100vh;
-    color: white;
-    font-size: 25px;
+    color: #000;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -182,7 +181,7 @@ section .title::after{
 }
 .home .home-content .text-1{
     color: #fff;
-    font-size: 25px;
+    font-size: 27px;
 }
 .home .home-content .text-2{
     font-size: 75px;
@@ -198,7 +197,7 @@ section .title::after{
     font-size: 27px;
 }
 .home .home-content .text-3 span{
-    color: ghostwhite;
+    color: blue;
     font-weight: 500;
 }
 .home .home-content a{
@@ -474,7 +473,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: blue;
+    color: crimson;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -549,7 +548,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: blue;
+    color: crimson;
     text-decoration: none;
 }
 footer span a:hover{
@@ -682,4 +681,3 @@ footer span a:hover{
         line-height: 38px;
     }
 }
-
