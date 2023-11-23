@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
+    background: url("https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/Neuroglancer_02.jpg") no-repeat center;
     height: 100vh;
     color: #000;
     min-height: 500px;
