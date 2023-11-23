@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/Neuroglancer_02.jpg") no-repeat center;
+    background: url("https://d.newsweek.com/en/full/451515/05-06-brain-connectome-01.jpg?w=1280&h=853&f=e116b9365f5d09f5494ee77d2c094a2c") no-repeat center;
     height: 100vh;
     color: #000;
     min-height: 500px;
@@ -197,7 +197,7 @@ section .title::after{
     font-size: 27px;
 }
 .home .home-content .text-3 span{
-    color: blue;
+    color: ghostwhite;
     font-weight: 500;
 }
 .home .home-content a{
