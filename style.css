@@ -70,7 +70,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: blue;
+    color: crimson;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -87,7 +87,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: blue;
+    background: crimson;
 }
 .navbar .max-width{
     display: flex;
@@ -100,7 +100,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: blue;
+    color: crimson;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -119,7 +119,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: blue;
+    color: crimson;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -136,7 +136,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: blue;
+    background: rgb(242, 30, 73);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2016/08/b7500_Connectome_ISN017_tube.png") no-repeat center;
+    background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
     height: 100vh;
     color: #000;
     min-height: 500px;
@@ -197,23 +197,23 @@ section .title::after{
     font-size: 27px;
 }
 .home .home-content .text-3 span{
-    color: blue;
+    color: crimson;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: blue;
+    background: crimson;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid blue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: blue;
+    color: crimson;
     background: none;
 }
 
@@ -239,25 +239,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: blue;
+    color: crimson;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: blue;
+    background: crimson;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid blue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: blue;
+    color: crimson;
     background: none;
 }
 
@@ -285,7 +285,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: blue;
+    background: crimson;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -295,7 +295,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: blue;
+    color: crimson;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
@@ -325,18 +325,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: blue;
+    background: crimson;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid blue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: blue;
+    color: crimson;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -364,7 +364,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: blue;
+    background: crimson;
 }
 .skills-content .right .html::before{
     width: 100%;
@@ -395,7 +395,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: blue;
+    background: crimson;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -417,7 +417,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid blue;
+    border: 5px solid crimson;
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
@@ -433,7 +433,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid blue!important;
+    border: 2px solid crimson!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -442,7 +442,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: blue!important;
+    background: crimson!important;
 }
 
 /* contact section styling */
@@ -532,12 +532,12 @@ section .title::after{
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: blue;
-  border: 2px solid blue;
+  background: crimson;
+  border: 2px solid crimson;
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover{
-  color: blue;
+  color: crimson;
   background: none;
 }
 /* footer section styling */
