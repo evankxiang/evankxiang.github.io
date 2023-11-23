@@ -164,7 +164,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://images.immediate.co.uk/production/volatile/sites/4/2022/04/James-Webb-Space-Telescope-hero-6df838e.jpg?quality=90&resize=768,574") no-repeat center;
+    background: url("https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2016/08/b7500_Connectome_ISN017_tube.png") no-repeat center;
     height: 100vh;
     color: #000;
     min-height: 500px;
