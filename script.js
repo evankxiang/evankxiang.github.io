@@ -29,7 +29,7 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Student at SSA", "Science Enthusiast", "Poetry Hater"],
+        strings: ["Student at SSA", "Science Enthusiast", "Aspiring Bioengineer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
